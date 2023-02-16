@@ -56,7 +56,7 @@ namespace table
 
                 Console.WriteLine("Finished\n ");
                 numbers.Clear();
-                Console.Write("Type the choosen number: ");
+                Console.Write("Type the number: ");
                 num = int.Parse(Console.ReadLine());
             }
         //    Console.WriteLine("The aplication has stopped! ");
